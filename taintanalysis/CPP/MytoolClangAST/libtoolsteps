@@ -1,0 +1,9 @@
+sudo apt-get update
+sudo apt-get install cmake-curses-gui
+install ccmake
+
+
+
+cd llvm-project/build
+cmake -G Ninja ../llvm -DLLVM_ENABLE_PROJECTS="clang;clang-tools-extra" -DLLVM_BUILD_TESTS=ON -DCMAKE_BUILD_TYPE=Release
+sudo ninja

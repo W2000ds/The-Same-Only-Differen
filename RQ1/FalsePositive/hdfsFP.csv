@@ -1,0 +1,4 @@
+,string,integer,float,boolean,enumeration,others,Loop,Memory,IO,Cache,error,network,Thread
+FP1,0,0,0,0,0,0,0,0,0,0,0,0,0
+FP2,0,11,0,5,3,0,2,5,0,7,8,0,1
+FP3,0,14,0,12,5,0,2,15,0,11,18,0,0
