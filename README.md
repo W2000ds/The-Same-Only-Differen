@@ -21,4 +21,4 @@ Specifically, the documents include:
 
 # Taint Analysis tool
 
-Conduct taint analysis using the LLMAST tool and Javaparser to locate target variables, functions, or specific code structures. The detailed instructions are in the folder.
+Conduct taint analysis using the LLMAST tool and Javaparser to locate target variables, functions, or specific code structures. The detailed instructions are in the folder taintanalysis.
