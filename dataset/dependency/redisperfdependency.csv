@@ -1,0 +1,13 @@
+ConfigurationA,ConfigurationB,performance-sensitive,performance-sensitive,source
+daemonize,supervised,1,0,both
+io-threads-do-reads,io-threads,0,1,both
+maxmemory-policy,maxmemory,0,1,both
+replica-ignore-maxmemory,maxmemory,0,1,both
+lazyfree-lazy-eviction,maxmemory,0,1,Manual
+cluster-migration-barrier,cluster-allow-replica-migration,1,1,both
+maxmemory-clients,maxmemory,0,1,both
+lfu-log-factor,maxmemory,1,1,both
+server.masterhost,server.repl_timeout,0,1,Code
+server.io_threads_active,server.io_threads_num,1,0,Code
+server.cluster_enabled,server.aof_filename,1,0,Code
+repl-timeout,timeout,1,1,both

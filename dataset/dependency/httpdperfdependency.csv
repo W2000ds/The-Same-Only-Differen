@@ -1,0 +1,5 @@
+ConfigurationA,ConfigurationB,performance-sensitive,performance-sensitive,source
+MaxKeepAliveRequests,KeepAlive,1,1,Manual&Code
+LimitRequestFieldSize,LimitRequestFields,1,0,Code
+KeepAlive,KeepAliveTimeout,1,0,Code
+TimeOut,KeepAlive,0,1,Code
