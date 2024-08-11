@@ -1,7 +1,7 @@
 AcceptFilter,0.25%
 CGIVar,0.48%
 ContentDigest,11.29%
-EnableMMAP,0.45%
+EnableMMAP,5.45%
 EnableSendfile,60.11%
 ExtendedStatus,1.22%
 FlushMaxPipelined,0.80%
@@ -10,7 +10,7 @@ HostnameLookups,0.22%
 KeepAlive,2.34%
 KeepAliveTimeout,5.09%
 LimitInternalRecursion,0.10%
-LimitRequestBody,0.31%
+LimitRequestBody,1.31%
 LimitRequestFields,872.11%
 LimitRequestFieldSize,6.25%
 LimitRequestLine,1.02%
@@ -72,6 +72,6 @@ ServerTokens,1.41%
 SetHandler,1.84%
 SetOutputFilter,1.99%
 StrictHostCheck,4.39%
-UnDefine,1.78%
+UnDefine,0.78%
 UseCanonicalName,0.78%
 UseCanonicalPhysicalPort,4.38%

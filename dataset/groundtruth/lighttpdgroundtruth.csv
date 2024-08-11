@@ -22,14 +22,14 @@ server.upload-temp-file-size,3.25%
 server.http-parseopt-header-strict,3.48%
 server.http-parseopt-host-strict,0.62%
 server.stat-cache-engine,6.27%
-server.listen-backlog,0.87%
+server.listen-backlog,1.87%
 server.use-ipv6,timeout
 server.document-root,0.78%
 server.name,0.94%
 server.tag,0.79%
 server.max-keep-alive-requests,3.84%
 server.max-write-idle,4.22%
-server.errorfile-prefix,3.70%
+server.errorfile-prefix,0.70%
 server.error-handler,4.30%
 server.error-handler-404,1.63%
 server.error-intercept,4.92%
@@ -38,7 +38,7 @@ server.follow-symlink,2.00%
 server.protocol-http11,3.90%
 mimetype.assign,3.38%
 mimetype.use-xattr,1.67%
-server.errorlog,1.46%
+server.errorlog,0.46%
 server.breakagelog,2.55%
 server.modules,3.04%
 server.port,0.33%

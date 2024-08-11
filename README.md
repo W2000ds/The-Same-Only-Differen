@@ -19,6 +19,18 @@ Specifically, the documents include:
 - **ManualDependency.csv:** Statistics of dependency relationships from manual analysis.
 - **CodeDependency.csv:** Statistics of dependency relationships from code analysis.
 
+## RQ3:
+> Result of Safetune and Gptuner in each run.
+
+## dataset
+### groundtruth
+
+> Performance test result for each system.
+
+### dependency
+
+> dependencies we found in each system.
+
 # Taint Analysis tool
 ## CPPtools
 ### 1: Obtaining Clang

@@ -1,11 +1,11 @@
-0,ManualDeps,CodeDeps,All Dependencies,Both in Manual Code,Only in manual,Only in code,Mix Option,Perf. Only Option,direct-indirect,indirect-direct,Yes-No,No-Yes,Value-Default,Overwrite-Control
-Httpd,1,4,4,1,0,3,3,1,1,0,0,0,0,0
-Lighttpd,0,2,2,0,0,2,2,0,0,0,0,0,0,0
-Nginx,4,5,6,3,1,2,2,4,1,0,0,1,1,0
-Redis,9,11,12,8,1,3,3,9,1,0,0,1,0,0
-MySQL,6,4,6,4,2,0,3,3,0,0,0,0,0,0
-HDFS,4,7,7,4,0,3,4,3,0,0,2,0,0,0
-Mapreduce,3,9,9,3,0,6,5,4,0,1,1,1,0,0
-Hbase,4,5,6,3,1,2,2,4,1,0,1,1,0,1
-Yarn,12,11,13,10,2,1,6,7,1,0,2,1,1,0
-Tomcat,2,2,2,2,0,0,1,1,0,0,0,0,0,0
+0,ManualDeps,CodeDeps,All Dependencies,Both in Manual Code,Only in manual,Only in code,Mix Option,Perf. Only Option
+Httpd,1,4,4,1,0,3,3,1
+Lighttpd,0,2,2,0,0,2,2,0
+Nginx,4,5,6,3,1,2,2,4
+Redis,9,11,12,8,1,3,3,9
+MySQL,6,4,6,4,2,0,3,3
+HDFS,4,7,7,4,0,3,4,3
+Mapreduce,3,9,9,3,0,6,5,4
+Hbase,4,5,6,3,1,2,2,4
+Yarn,12,11,13,10,2,1,6,7
+Tomcat,2,2,2,2,0,0,1,1
