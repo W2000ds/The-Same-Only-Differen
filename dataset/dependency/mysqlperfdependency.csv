@@ -1,7 +1,7 @@
-ConfigurationA,ConfigurationB,performance-sensitive,performance-sensitive,source
-max_heap_table_size,tmp_table_size,1,1,both
-wait_timeout,interactive_timeout,1,,both
-transaction_prealloc_size,transaction_alloc_block_size,1,1,both
-select_into_buffer_size,select_into_disk_sync_delay,1,,both
-max_sort_length,sort_buffer_size,,1,Manual
-read_buffer_size,select_into_buffer_size,1,1,Manual
+ConfigurationA,ConfigurationB,Aperformance-sensitive,Bperformance-sensitive,source,type,|C|≥3
+max_heap_table_size,tmp_table_size,1,1,both,PerfOnly,0
+wait_timeout,interactive_timeout,1,0,both,Mixed,0
+transaction_prealloc_size,transaction_alloc_block_size,1,1,both,PerfOnly,0
+select_into_buffer_size,select_into_disk_sync_delay,1,0,both,Mixed,1
+max_sort_length,sort_buffer_size,0,1,Manual,Mixed,0
+read_buffer_size,select_into_buffer_size,1,1,Manual,PerfOnly,1

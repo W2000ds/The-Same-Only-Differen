@@ -1,7 +1,7 @@
-ConfigurationA,ConfigurationB,performance-sensitive,performance-sensitive,source
-hbase.zookeeper.property.clientPort,hbase.zookeeper.quorum,1,1,both
-dfs.client.read.shortcircuit,dfs.domain.socket.path,1,0,both
-hbase.regionserver.global.memstore.size.lower.limit,hbase.regionserver.global.memstore.size,1,1,both
-hbase.hstore.compaction.min.size,hbase.hstore.compaction.ratio,1,1,manual
-hbase.security.authentication,hbase.auth.key.update.interval,1,1,code
-hbase.security.authentication,hbase.auth.token.max.lifetime,1,0,code
+ConfigurationA,ConfigurationB,Aperformance-sensitive,Bperformance-sensitive,source,type,|C|≥3
+hbase.zookeeper.property.clientPort,hbase.zookeeper.quorum,1,1,both,PerfOnly,0
+dfs.client.read.shortcircuit,dfs.domain.socket.path,1,0,both,mixed,0
+hbase.regionserver.global.memstore.size.lower.limit,hbase.regionserver.global.memstore.size,1,1,both,PerfOnly,0
+hbase.hstore.compaction.min.size,hbase.hstore.compaction.ratio,1,1,manual,PerfOnly,0
+hbase.security.authentication,hbase.auth.key.update.interval,1,1,code,PerfOnly,1
+hbase.security.authentication,hbase.auth.token.max.lifetime,1,0,code,mixed,1
