@@ -1,9 +1,9 @@
 | Workload | MySQL      | Lighttpd     | Httpd        | Nginx        | Redis          | Yarn    | HDFS    | Mapreduce | Hbase | Tomcat       |
 | -------- | ---------- | ------------ | ------------ | ------------ | -------------- | ------- | ------- | --------- | ----- | ------------ |
-| W1       | Sysbench   | Apache bench | Apache bench | Apache bench | redisbenchmark | HiBench | HiBench | HiBench   | YCSB  | Apache bench |
-| W2       | Sysbench   | Apache bench | Apache bench | Apache bench | redisbenchmark | HiBench | HiBench | HiBench   | YCSB  | Apache bench |
-| W3       | TPC-C   | JMeter       | JMeter       | JMeter       | redisbenchmark | HiBench | HiBench | HiBench   | YCSB  | Apache bench |
-| W4       | TPC-C | NA           | NA           | NA           | NA             | NA      | NA      | NA        | NA    | NA           |
+| W1       | sysbench-10000-4-16-20-10000 | Apache bench- 10000-100 | Apache bench- 10000-100 | Apache bench- 10000-100 | redisbenchmark-get-10000-50 | HiBench-micro.sort | HiBench-micro.sortHiBench | HiBench-micro.sortHiBench | YCSB-100000-100000-workloadb | Apache bench-10000-100 |
+| W2       | sysbench-8-8-40-1000 | Apache bench-10000-1000 | Apache bench-10000-1000 | Apache bench-10000-1000 | redisbenchmark-set-10000-50redisbenchmark | HiBench-micro.terasortHiBench | HiBench-micro.terasortHiBench | HiBench-micro.terasortHiBench | YCSB-1000-1000-workloada | Apache bench-10000-1000 |
+| W3       | TPC-C -w2 -1-3-10 | JMeter-100-10 | JMeter-200-15 | JMeter-100-10 | redisbenchmark-get-100000-100redisbenchmark | HiBench-micro.wordcountHiBench | HiBench-micro.wordcountHiBench | HiBench-micro.wordcountHiBench | YCSB-10000-10000-workloadc   | Apache bench-1000-100 |
+| W4       | TPC-C -w4 -4-3-20 | NA           | NA           | NA           | NA             | NA      | NA      | NA        | NA    | NA           |
 
 
 
