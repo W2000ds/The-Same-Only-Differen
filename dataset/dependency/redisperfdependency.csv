@@ -1,8 +1,8 @@
-ConfigurationA,ConfigurationB,Aperformance-sensitive,Bperformance-sensitive,source,type,|C|≥3
+ConfigurationA,ConfigurationB,Aperformance-sensitive,Bperformance-sensitive,source,type,|C| ≥ 3
 daemonize,supervised,1,0,both,mixed,0
-io-threads-do-reads,io-threads,0,1,both,mixed,0
+io-threads-do-reads,io-threads,1,1,both,PerfOnly,0
 maxmemory-policy,maxmemory,0,1,both,mixed,1
-replica-ignore-maxmemory,maxmemory,0,1,both,mixed,1
+replica-ignore-maxmemory,maxmemory,1,1,both,PerfOnly,1
 lazyfree-lazy-eviction,maxmemory,0,1,Manual,mixed,1
 cluster-migration-barrier,cluster-allow-replica-migration,1,1,both,PerfOnly,0
 maxmemory-clients,maxmemory,0,1,both,mixed,1

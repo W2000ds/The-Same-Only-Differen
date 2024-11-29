@@ -1,6 +1,7 @@
-ConfigurationA,ConfigurationB,ConfigurationAperformance-sensitive,ConfigurationBperformance-sensitive,source,Type
-tcp_nopush,sendfile,1,1,Manual,PerfOnly
-directio,sendfile,1,1,both,PerfOnly
-aio,directio,0,1,both,Mixed
-keepalive_timeout,keepalive_requests,1,1,Code,PerfOnly
-large_client_header_buffers,connection_pool_size,1,1,Code,PerfOnly
+ConfigurationA,ConfigurationB,Aperformance-sensitive,Bperformance-sensitive,source,type,|C| ≥ 3
+tcp_nopush,sendfile,1,1,Manual,PerfOnly,1
+directio,sendfile,1,1,both,PerfOnly,1
+aio,directio,0,1,both,Mixed,1
+keepalive_timeout,keepalive_requests,1,1,Code,PerfOnly,0
+large_client_header_buffers,connection_pool_size,1,1,Code,PerfOnly,0
+types_hash_max_size,types,1,0,manual,Mixed,0

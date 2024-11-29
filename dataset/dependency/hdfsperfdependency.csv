@@ -1,4 +1,4 @@
-ConfigurationA,ConfigurationB,Aperformance-sensitive,Bperformance-sensitive,source,type,|C|≥3
+ConfigurationA,ConfigurationB,Aperformance-sensitive,Bperformance-sensitive,source,type,|C| ≥ 3
 dfs.datanode.lifeline.interval.seconds,dfs.heartbeat.interval,0,1,code,mixed,1
 dfs.namenode.heartbeat.recheck-interval,dfs.heartbeat.interval,1,1,code,PerfOnly,1
 dfs.image.transfer.timeout,dfs.image.transfer.bandwidthPerSec,1,0,both,mixed,0
@@ -7,3 +7,8 @@ dfs.client.cache.readahead,dfs.datanode.readahead.bytes,1,1,code,PerfOnly,0
 dfs.client.block.write.replace-datanode-on-failure.enable,dfs.client.block.write.replace-datanode-on-failure.policy,0,1,both,mixed,0
 dfs.cachereport.intervalMsec,dfs.datanode.max.locked.memory,0,1,both,mixed,0
 dfs.namenode.avoid.write.stale.datanode,dfs.namenode.write.stale.datanode.ratio,0,1,code,mixed,0
+dfs.data.transfer.protection,dfs.encrypt.data.transfer,1,0,manual,mixed,0
+dfs.namenode.replication.min,dfs.replication,1,0,code,mixed,0
+dfs.namenode.checkpoint.check.period,dfs.namenode.checkpoint.period,0,1,code,mixed,0
+dfs.client.read.shortcircuit,dfs.client.domain.socket.data.traffic,0,1,code,mixed,0
+dfs.datanode.sync.behind.writes,dfs.datanode.sync.behind.writes.in.background,1,0,code,mixed,0

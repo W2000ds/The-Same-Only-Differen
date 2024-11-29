@@ -1,3 +1,3 @@
-ConfigurationA,ConfigurationB,Aperformance-sensitive,Bperformance-sensitive,source,type,|C|≥3
+ConfigurationA,ConfigurationB,Aperformance-sensitive,Bperformance-sensitive,source,type,|C| ≥ 3
 maxHttpRequestHeaderSize,maxHttpHeaderSize,1,1,both,PerfOnly,1
 maxHttpResponseHeaderSize,maxHttpHeaderSize,1,1,both,PerfOnly,1

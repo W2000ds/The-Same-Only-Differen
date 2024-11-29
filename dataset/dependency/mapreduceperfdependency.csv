@@ -1,4 +1,4 @@
-ConfigurationA,ConfigurationB,Aperformance-sensitive,Bperformance-sensitive,source,type,|C|≥3
+ConfigurationA,ConfigurationB,Aperformance-sensitive,Bperformance-sensitive,source,type,|C| ≥ 3
 mapreduce.shuffle.transfer.buffer.size,mapreduce.shuffle.transferTo.allowed,1,1,code,PerfOnly,0
 mapreduce.map.java.opts,mapreduce.map.memory.mb,0,1,code,Mixed,0
 mapreduce.job.ubertask.enable,mapreduce.job.ubertask.maxbytes,0,1,code,Mixed,0
@@ -6,3 +6,6 @@ mapreduce.job.end-notification.retry.attempts,mapreduce.job.end-notification.max
 mapreduce.job.end-notification.retry.interval,mapreduce.job.end-notification.max.retry.interval,0,1,code,Mixed,0
 mapreduce.job.reduces,mapreduce.framework.name,1,0,both,Mixed,0
 mapreduce.job.local-fs.single-disk-limit.check.kill-limit-exceed,mapreduce.job.local-fs.single-disk-limit.bytes,0,1,both,Mixed,0
+mapreduce.map.output.compress,mapreduce.map.output.compress.codec,1,0,code,mixed,0
+mapreduce.reduce.node-label-expression,mapreduce.job.node-label-expression,1,0,manual,mixed,0
+mapreduce.jobhistory.loadedjobs.cache.size,mapreduce.jobhistory.loadedtasks.cache.size,1,1,both,PerfOnly,0
