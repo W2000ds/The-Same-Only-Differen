@@ -1,63 +1,63 @@
 name,Apache-bench-10000-100,Apache-bench-10000-1000,jmeter1
-server.document-root,5751.76,3959.07,2989.32
-server.name,5964.38,3961.59,3091.16
-server.tag,5896.51,4118.67,3104.53
-server.max-request-size,6302.89,3952.81,2935.30
-server.max-keep-alive-requests,6347.92,3824.68,3037.98
-server.max-keep-alive-idle,6838.05,4069.66,3092.02
-server.max-read-idle,6713.10,5930.87,2878.77
-server.max-write-idle,6095.80,3931.17,2982.01
-server.errorfile-prefix,5761.60,3858.04,3133.45
-server.error-handler,6184.43,4017.44,3023.75
-server.error-handler-404,6046.89,3891.13,3049.52
-server.error-intercept,5799.43,3996.38,2942.97
-server.force-lowercase-filenames,6019.05,4116.95,3008.26
-server.follow-symlink,6116.07,3833.77,2895.50
-server.protocol-http11,5962.13,4075.31,3097.50
-server.range-requests,6746.59,6113.67,3154.60
-server.stream-request-body,5842.70,4022.64,1865.70
-server.stream-response-body,5822.60,3937.74,3126.98
-server.kbytes-per-second,6495.80,5524.72,3079.06
-connection.kbytes-per-second,6844.47,5434.48,2855.27
-mimetype.assign,5803.23,3875.80,3009.41
-mimetype.use-xattr,5964.66,4060.12,3057.10
-etag.use-inode,6920.83,3817.84,2974.45
-etag.use-mtime,5804.20,4050.85,2846.87
-etag.use-size,6851.77,3833.24,2938.01
-server.errorlog,5906.02,4023.27,2874.70
-server.breakagelog,5799.90,4074.52,2912.09
-server.modules,6157.76,4004.01,2989.88
-server.compat-module-load,46180.63,3814.57,3024.38
-server.systemd-socket-activation,5885.01,4003.81,2962.48
-server.port,6006.18,4041.78,3120.72
-server.bind,6331.69,4117.24,2864.75
-server.network-backend,5183.94,4135.39,3052.04
-server.chroot,6184.39,4009.10,2979.06
-server.username,6317.14,3850.50,3070.86
-server.groupname,5859.05,3973.80,3028.87
-server.errorlog-use-syslog,6813.71,4039.94,2886.84
-server.syslog-facility,6326.04,4183.68,2975.00
-server.core-files,5786.49,4163.01,2990.35
-server.event-handler,5863.48,4032.12,2912.77
-server.pid-file,6210.69,3921.21,2988.28
-server.max-worker,5058.93,4053.25,3072.44
-server.max-fds,5786.59,4070.73,2920.05
-server.max-connections,7291.06,6110.68,2982.26
-server.max-request-field-size,48674.59,39540.85,2964.32
-server.chunkqueue-chunk-sz,6088.69,4119.06,3011.77
-server.upload-temp-file-size,5907.75,3851.37,2913.05
-server.upload-dirs,5782.16,3853.91,2895.62
-server.http-parseopts,6282.08,3861.40,2922.34
-server.http-parseopt-header-strict,5794.13,4000.84,2904.95
-server.http-parseopt-host-strict,6007.61,4049.83,3089.36
-server.http-parseopt-host-normalize,5782.25,3800.66,2918.10
-server.reject-expect-100-with-417,6088.46,4143.52,3049.82
-server.stat-cache-engine,6713.93,4025.73,3533.27
-mimetype.xattr-name,6074.62,4105.99,3015.87
-server.feature-flags,6156.57,3950.57,2940.94
-server.listen-backlog,6330.83,4144.87,3105.09
-server.bsd-accept-filter,7143.99,4150.67,2994.15
-server.defer-accept,6353.58,4125.83,2876.78
-server.use-ipv6,6633.53,5812.18,4000.00
-server.v4mapped,6018.47,4060.74,2914.85
-server.socket-perms,6154.86,3919.94,2908.71
+server.document-root,"(5751, 5461, 5855)","(3959, 3793, 3839)","(2989, 3055, 2899)"
+server.name,"(5964, 6182, 5821)","(3961, 3944, 4132)","(3091, 3116, 3202)"
+server.tag,"(5896, 5890, 6192)","(4118, 4046, 4040)","(3104, 3187, 3112)"
+server.max-request-size,"(6302, 6557, 6160)","(3952, 4127, 3800)","(2935, 3050, 3003)"
+server.max-keep-alive-requests,"(6347, 6573, 6593)","(3824, 3672, 3901)","(3037, 2954, 3128)"
+server.max-keep-alive-idle,"(6838, 6628, 6565)","(4069, 4210, 4183)","(3092, 3067, 3116)"
+server.max-read-idle,"(6713, 6905, 6935)","(5930, 5855, 5896)","(2878, 2874, 2967)"
+server.max-write-idle,"(6095, 6002, 6296)","(3931, 3872, 3840)","(2982, 2925, 3024)"
+server.errorfile-prefix,"(5761, 5680, 5928)","(3858, 3992, 3996)","(3133, 3020, 3225)"
+server.error-handler,"(6184, 6465, 6254)","(4017, 3898, 3879)","(3023, 2991, 3018)"
+server.error-handler-404,"(6046, 5822, 6326)","(3891, 3971, 3892)","(3049, 3094, 3025)"
+server.error-intercept,"(5799, 5756)","(3996, 4074)","(2942, 2979)"
+server.force-lowercase-filenames,"(6019, 5722)","(4116, 4048)","(3008, 2947)"
+server.follow-symlink,"(6116, 5916)","(3833, 3869)","(2895, 2990)"
+server.protocol-http11,"(5962, 5785)","(4075, 4098)","(3097, 2987)"
+server.range-requests,"(6746, 6970)","(6113, 5939)","(3154, 3255)"
+server.stream-request-body,"(5842, 5650)","(4022, 4201)","(1865, 1836)"
+server.stream-response-body,"(5822, 6048)","(3937, 3836)","(3126, 3083)"
+server.kbytes-per-second,"(6495, 6490, 6348)","(5524, 5429, 5363)","(3079, 3139, 2982)"
+connection.kbytes-per-second,"(6844, 6762, 6683)","(5434, 5607, 5316)","(2855, 2935, 2865)"
+mimetype.assign,"(5803, 6000, 6064)","(3875, 3936, 3968)","(3009, 3067, 3079)"
+mimetype.use-xattr,"(5964, 5766)","(4060, 4235)","(3057, 3086)"
+etag.use-inode,"(6920, 6846)","(3817, 3922)","(2974, 3065)"
+etag.use-mtime,"(5804, 6002)","(4050, 4190)","(2846, 2823)"
+etag.use-size,"(6851, 6621)","(3833, 3786)","(2938, 3029)"
+server.errorlog,"(5906, 5920, 5735)","(4023, 3996, 3949)","(2874, 2775, 2854)"
+server.breakagelog,"(5799, 5906, 5607)","(4074, 4161, 4045)","(2912, 2920, 3017)"
+server.modules,"(6157, 6252, 5955)","(4004, 3851, 4037)","(2989, 2900, 3093)"
+server.compat-module-load,"(46180, 45929)","(3814, 3973)","(3024, 3063)"
+server.systemd-socket-activation,"(5885, 6071)","(4003, 4024)","(2962, 2905)"
+server.port,"(6006, 5907, 6047)","(4041, 3977, 4180)","(3120, 3152, 3134)"
+server.bind,"(6331, 6393, 6220)","(4117, 4114, 3960)","(2864, 2758, 2911)"
+server.network-backend,"(5183, 5228, 5084)","(4135, 4106, 4102)","(3052, 3046, 3136)"
+server.chroot,"(6184, 6161, 6071)","(4009, 3917, 3991)","(2979, 2862, 3070)"
+server.username,"(6317, 6303, 6505)","(3850, 3722, 3904)","(3070, 3123, 2974)"
+server.groupname,"(5859, 5814, 5668)","(3973, 3869, 4068)","(3028, 3006, 3059)"
+server.errorlog-use-syslog,"(6813, 6645)","(4039, 4225)","(2886, 2819)"
+server.syslog-facility,"(6326, 6089, 6047)","(4183, 4264, 4114)","(2975, 3005, 2887)"
+server.core-files,"(5786, 5929)","(4163, 4204)","(2990, 3080)"
+server.event-handler,"(5863, 5610, 5639)","(4032, 3898, 4098)","(2912, 2956, 2805)"
+server.pid-file,"(6210, 6136, 6200)","(3921, 4110, 3886)","(2988, 2936, 2886)"
+server.max-worker,"(5058, 5185, 5114)","(4053, 3951, 4034)","(3072, 3079, 3115)"
+server.max-fds,"(5786, 5487, 6040)","(4070, 4010, 3928)","(2920, 2801, 3019)"
+server.max-connections,"(7291, 7514, 7556)","(6110, 6194, 6136)","(2982, 2964, 2952)"
+server.max-request-field-size,"(48674, 48832, 48912)","(39540, 39575, 39594)","(2964, 3045, 3022)"
+server.chunkqueue-chunk-sz,"(6088, 5792, 5914)","(4119, 4248, 3965)","(3011, 2923, 2946)"
+server.upload-temp-file-size,"(5907, 5988, 5634)","(3851, 4023, 3804)","(2913, 2972, 2919)"
+server.upload-dirs,"(5782, 5947, 5729)","(3853, 3686, 3731)","(2895, 2856, 2934)"
+server.http-parseopts,"(6282, 6039, 6356)","(3861, 3719, 3769)","(2922, 2879, 2916)"
+server.http-parseopt-header-strict,"(5794, 5859)","(4000, 3833)","(2904, 2939)"
+server.http-parseopt-host-strict,"(6007, 5974)","(4049, 4198)","(3089, 3086)"
+server.http-parseopt-host-normalize,"(5782, 5988)","(3800, 3858)","(2918, 3006)"
+server.reject-expect-100-with-417,"(6088, 6011)","(4143, 3987)","(3049, 3044)"
+server.stat-cache-engine,"(6713, 6601, 6481)","(4025, 3957, 3887)","(2890, 2821, 2942)"
+mimetype.xattr-name,"(6074, 5799, 6090)","(4105, 4125, 4244)","(3015, 3058, 3091)"
+server.feature-flags,"(6156, 6170, 6023)","(3950, 3891, 3988)","(2940, 2854, 2881)"
+server.listen-backlog,"(6330, 6456, 6470)","(4144, 4077, 3957)","(3105, 3018, 3005)"
+server.bsd-accept-filter,"(7143, 7178, 6867)","(4150, 4329, 4301)","(2994, 2901, 3063)"
+server.defer-accept,"(6353, 6060)","(4125, 4184)","(2876, 2960)"
+server.use-ipv6,"(6633, 6545)","(5812, 5742)","(4000, 3929)"
+server.v4mapped,"(6018, 6000)","(4060, 4117)","(2914, 2873)"
+server.socket-perms,"(6154, 5944, 6134)","(3919, 3817, 3806)","(2908, 2841, 2988)"
