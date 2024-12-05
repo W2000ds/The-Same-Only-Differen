@@ -1,219 +1,219 @@
 name,HiBench-micro.sort,HiBench-micro.terasort,HiBench-micro.wordcount
-mapreduce.jobhistory.max-age-ms,280.4412483,252767.0339,368.8831666
-mapreduce.jobhistory.loadedjobs.cache.size,292.8082143,230519.051,364.1332317
-mapreduce.jobhistory.joblist.cache.size,273.7543015,268362.5514,362.342949
-mapreduce.job.encrypted-intermediate-data.buffer.kb,293.231067,258231.7371,362.7967978
-mapreduce.ifile.readahead,293.8920718,246454.5981,359.6535049
-mapreduce.shuffle.ssl.file.buffer.size,296.6753257,252465.0647,362.8036743
-yarn.app.mapreduce.am.staging-dir.erasurecoding.enabled,273.0922732,246105.4325,353.3329878
-yarn.app.mapreduce.am.staging-dir,276.069718,246515.9793,371.0433726
-yarn.app.mapreduce.am.resource.cpu-vcores,280.462265,245916.6706,365.3618955
-mapreduce.task.exit.timeout.check-interval-ms,283.2665868,254253.6637,386.184265
-mapreduce.reduce.speculative,289.655536,260714.4084,363.4715438
-mapreduce.reduce.input.buffer.percent,280.4824608,272696.304,372.0444805
-mapreduce.map.output.compress.codec,296.4180469,265920.9733,376.3919185
-mapreduce.map.output.compress,292.1634852,246045.9334,error
-mapreduce.jobhistory.webapp.https.address,286.1086654,253590.7209,387.5741231
-mapreduce.jobhistory.recovery.store.leveldb.path,276.8771464,261502.9444,366.5091402
-mapreduce.jobhistory.recovery.store.fs.uri,282.8770902,261614.5451,364.3540789
-mapreduce.jobhistory.recovery.store.class,299.0930984,256802.168,360.3719078
-mapreduce.jobhistory.loadedtasks.cache.size,291.5747169,253311.2383,318.2111444
-mapreduce.jobhistory.done-dir,272.3358764,246748.3269,367.1171916
-mapreduce.job.ubertask.maxreduces,294.9768652,249994.9795,354.7376875
-mapreduce.job.ubertask.maxmaps,278.7555241,268071.5594,359.2141154
-mapreduce.job.ubertask.enable,288.5960339,268187.4092,368.9651723
-mapreduce.job.speculative.speculative-cap-total-tasks,282.4459422,267483.7692,373.4592445
-mapreduce.job.max.map,287.4415309,256751.6607,357.1359958
-mapreduce.job.log4j-properties-file,298.1631916,265520.5119,354.3160206
-mapreduce.job.end-notification.url,276.7373559,252877.8868,359.6522551
-mapreduce.job.encrypted-intermediate-data-key-size-bits,296.5668369,256654.1476,359.766523
-mapreduce.job.dfs.storage.capacity.kill-limit-exceed,275.0951443,243829.3318,367.299741
-mapreduce.job.classloader,297.0867166,246602.6063,366.6119839
-mapreduce.job.cache.limit.max-single-resource-mb,281.0530859,216709.1577,362.3207011
-mapreduce.job.cache.limit.max-resources,273.6901465,250074.4797,361.8979033
-mapreduce.client.submit.file.replication,282.8065435,268722.7289,366.0412998
-mapreduce.application.framework.path,282.5232981,256168.1838,374.5186236
-mapred.child.java.opts,281.7501457,258526.6727,360.0493984
-map.sort.class,283.7737698,261597.4336,388.0405722
-mapreduce.reduce.markreset.buffer.percent,295.8165651,250457.3474,358.5883336
-mapreduce.job.encrypted-intermediate-data,285.496773,220715.8079,367.5252853
-mapreduce.task.local-fs.write-limit.bytes,287.0723055,244431.5827,383.5191173
-mapreduce.map.speculative,294.4129082,258542.9782,379.2313531
-mapreduce.job.maps,289.55705,255275.6645,375.8256658
-mapreduce.fileoutputcommitter.algorithm.version,293.2755332,260562.7361,373.192124
-mapreduce.jobhistory.recovery.enable,287.3117614,256886.2576,374.4239883
-mapreduce.task.exit.timeout,274.3496415,258000.021,363.9669984
-mapreduce.job.hdfs-servers,288.4404382,264299.6866,367.6524089
-mapreduce.task.combine.progress.records,278.411892,258766.4558,369.4476515
-mapreduce.jobhistory.datestring.cache.size,290.3174183,257003.5409,364.1745812
-mapreduce.job.token.tracking.ids.enabled,273.5142636,246961.1822,373.6162007
-mapreduce.job.token.tracking.ids,277.5556207,250140.3675,353.8393351
-mapreduce.job.send-token-conf,299.1756568,263078.8047,388.0826424
-mapreduce.job.redacted-properties,276.3586188,249433.2934,373.3926942
-mapreduce.job.finish-when-all-reducers-done,295.3362512,248119.0127,365.7034527
-mapreduce.app-submission.cross-platform,283.1699792,254232.3627,377.9522454
-mapreduce.application.classpath,280.9583774,268750.2871,372.7541021
-mapreduce.job.queuename,290.4524901,251828.4136,368.2908271
-mapreduce.job.maxtaskfailures.per.tracker,289.8555228,267919.5147,381.3698654
-mapreduce.job.am.node-label-expression,291.0640536,213957.4655,381.6155305
-yarn.app.mapreduce.client.max-retries,290.8736968,267562.9873,356.0509651
-yarn.app.mapreduce.am.resource.mb,296.5522418,248648.074,359.3549228
-mapreduce.task.profile.reduce.params,275.9227917,257780.2919,388.5160496
-mapreduce.task.profile.params,282.5613343,262624.4466,377.6558286
-mapreduce.task.profile.map.params,289.3812378,256738.1535,355.0022194
-mapreduce.reduce.node-label-expression,273.1384543,221403.7908,355.7100091
-mapreduce.reduce.maxattempts,275.8351403,246066.5707,374.5232979
-mapreduce.job.sharedcache.mode,292.1513194,250474.0898,368.357288
-mapreduce.job.running.reduce.limit,299.2764483,263993.2787,373.3756334
-mapreduce.am.max-attempts,287.4661106,260373.254,355.0427929
-yarn.app.mapreduce.client-am.ipc.max-retries,293.0768578,263395.5789,370.0249301
-yarn.app.mapreduce.am.webapp.port-range,274.2058204,250848.9169,387.9650705
-yarn.app.mapreduce.am.scheduler.heartbeat.interval-ms,277.2282513,267493.7034,366.898689
-yarn.app.mapreduce.am.job.client.port-range,279.8528133,258633.5663,382.227022
-mapreduce.shuffle.port,295.9882285,266842.2535,366.0240292
-mapreduce.shuffle.connection-keep-alive.timeout,276.5368176,262749.4136,384.3453671
-mapreduce.shuffle.connection-keep-alive.enable,297.2150774,247912.153,381.164327
-mapreduce.reduce.shuffle.retry-delay.max.ms,280.8449655,228913.1263,383.8709215
-mapreduce.map.maxattempts,288.5754284,256420.8122,365.2954453
-mapreduce.jobhistory.webapp.address,285.5525865,265319.7504,380.8512669
-mapreduce.jobhistory.http.policy,281.4600806,243584.7635,383.8784352
-mapreduce.jobhistory.address,293.1269813,268368.2164,375.1793214
-mapreduce.job.classloader.system.classes,277.7841343,254851.8031,375.663135
-yarn.app.mapreduce.am.webapp.https.client.auth,294.7231854,223559.3245,357.3542912
-mapreduce.shuffle.ssl.enabled,275.7730538,245509.8001,362.9875933
-mapreduce.jobhistory.move.interval-ms,274.7222811,252843.0603,354.1280347
-mapreduce.jobhistory.minicluster.fixed.ports,274.5540498,251060.8517,358.7916346
-mapreduce.jobhistory.client.thread-count,296.6321394,245530.8338,362.5901104
-mapreduce.job.speculative.retry-after-no-speculate,289.6683193,251859.6544,367.9207373
-mapreduce.shuffle.pathcache.max-weight,280.1847482,258016.0627,357.0897837
-mapreduce.shuffle.pathcache.expire-after-access-minutes,282.894974,262374.0935,363.3984863
-mapreduce.shuffle.pathcache.concurrency-level,282.9339437,255706.9778,375.7425315
-mapreduce.shuffle.max.connections,284.4794022,263226.7674,378.1595199
-mapreduce.shuffle.listen.queue.size,299.4703613,249247.4738,380.4828912
-mapreduce.reduce.shuffle.merge.percent,289.9296778,267828.8006,387.4672779
-mapreduce.reduce.shuffle.memory.limit.percent,283.5078918,265522.3555,361.6210833
-mapreduce.reduce.shuffle.input.buffer.percent,282.0138818,259372.9968,382.1618855
-yarn.app.mapreduce.am.job.task.listener.thread-count,293.3061071,255882.1731,367.2327297
-yarn.app.mapreduce.am.job.committer.commit-window,279.3258912,251858.49,354.228169
-yarn.app.mapreduce.am.job.committer.cancel-timeout,282.8143719,255116.5582,369.5583427
-yarn.app.mapreduce.am.containerlauncher.threadpool-initial-size,286.6409508,267081.0631,369.8155595
-mapreduce.reduce.shuffle.fetch.retry.interval-ms,273.7299694,246212.3467,371.0092315
-mapreduce.reduce.shuffle.fetch.retry.enabled,281.9271559,258128.4096,366.2623581
-mapreduce.task.timeout,272.4508516,308673.414,354.9033281
-mapreduce.task.stuck.timeout-ms,292.4683611,235733.9181,355.9810407
-mapreduce.client.output.filter,285.354269,254665.0296,372.2445532
-mapreduce.job.end-notification.retry.interval,272.3851481,268854.3338,356.8054055
-mapreduce.input.fileinputformat.list-status.num-threads,290.3217027,243507.121,380.779975
-mapreduce.client.completion.pollinterval,296.6595388,253252.2114,359.0894916
-yarn.app.mapreduce.client.job.retry-interval,280.8474898,256930.9211,386.486215
-yarn.app.mapreduce.client.job.max-retries,282.4963905,246184.2786,359.4528724
-mapreduce.shuffle.max.threads,273.8719168,247100.368,365.4203452
-yarn.app.mapreduce.task.container.log.backups,280.9108062,246155.0601,376.7136986
-yarn.app.mapreduce.shuffle.log.separate,292.7104373,252416.0585,353.3941848
-yarn.app.mapreduce.shuffle.log.limit.kb,291.9765417,257733.7843,378.677751
-yarn.app.mapreduce.shuffle.log.backups,290.5984033,245761.6624,353.6112268
-yarn.app.mapreduce.am.webapp.https.enabled,298.9454418,244569.6972,378.2116354
-yarn.app.mapreduce.am.log.level,283.2659265,260215.0502,356.5597186
-yarn.app.mapreduce.am.env,280.6864563,254845.9198,362.1599658
-yarn.app.mapreduce.am.container.log.limit.kb,289.785173,260827.5201,383.1138926
-yarn.app.mapreduce.am.container.log.backups,295.6271565,260227.7407,374.135627
-yarn.app.mapreduce.am.command-opts,278.0649234,264722.3812,384.9614455
-yarn.app.mapreduce.am.admin-command-opts,271.6433147,248107.2026,381.2510402
-yarn.app.mapreduce.am.admin.user.env,271.6889096,264251.0251,373.3841421
-mapreduce.task.userlog.limit.kb,283.4998543,268460.9371,376.5257047
-mapreduce.task.profile.reduces,294.4550348,262246.5332,373.5840161
-mapreduce.task.profile.maps,277.584533,256471.3268,361.1870517
-mapreduce.task.profile,285.7504358,268264.3637,388.8466688
-mapreduce.task.merge.progress.records,295.0985853,259935.6343,338.2150895
-mapreduce.task.files.preserve.failedtasks,294.2397316,257224.3352,381.0382634
-mapreduce.reduce.skip.maxgroups,283.5071377,258430.1926,372.3920029
-mapreduce.reduce.log.level,287.9297277,256292.3102,372.8316394
-mapreduce.reduce.cpu.vcores,284.3278614,265820.2886,363.2820657
-mapreduce.outputcommitter.factory.scheme.s3a,286.8396089,251223.967,359.7880092
-mapreduce.outputcommitter.factory.class,299.4236988,252986.842,376.1651088
-mapreduce.output.fileoutputformat.compress.type,280.0927603,258366.5975,368.1206085
-mapreduce.output.fileoutputformat.compress.codec,287.2465683,267642.1167,372.0275583
-mapreduce.output.fileoutputformat.compress,277.6468628,267826.8191,377.9825154
-mapreduce.map.skip.proc-count.auto-incr,282.871918,259197.393,360.9574113
-mapreduce.map.skip.maxrecords,272.4101348,251371.9641,388.2403725
-mapreduce.map.log.level,278.5927595,244487.5298,362.5154306
-mapreduce.map.cpu.vcores,288.9774275,256474.8349,369.4975914
-mapreduce.jvm.system-properties-to-log,274.9684902,261944.735,358.2844115
-mapreduce.jobhistory.webapp.xfs-filter.xframe-options,286.568526,251778.3687,376.307101
-mapreduce.jobhistory.webapp.rest-csrf.methods-to-ignore,281.7486067,255213.0983,382.1507318
-mapreduce.jobhistory.webapp.rest-csrf.enabled,279.4410859,272696.9239,353.4610688
-mapreduce.jobhistory.webapp.rest-csrf.custom-header,286.2807554,268074.978,383.2195063
-mapreduce.jobhistory.store.class,277.003504,249047.7482,361.4430169
-mapreduce.jobhistory.principal,278.121678,251304.7356,378.0805872
-mapreduce.jobhistory.keytab,294.8683178,252095.661,375.1227401
-mapreduce.jobhistory.jobname.limit,271.9001295,261499.31,386.1377962
-mapreduce.jobhistory.jhist.format,281.7921092,267244.4064,367.7100022
-mapreduce.jobhistory.intermediate-user-done-dir.permissions,276.9958366,252212.9821,360.9806726
-mapreduce.jobhistory.intermediate-done-dir,288.2474998,260211.883,382.1255474
-mapreduce.jobhistory.cleaner.interval-ms,281.2690546,265439.1338,362.9297816
-mapreduce.jobhistory.always-scan-user-dir,278.9587707,255994.2182,359.8012605
-mapreduce.jobhistory.admin.address,288.1423468,254686.3325,367.652558
-mapreduce.jobhistory.admin.acl,283.8938272,266080.0826,370.4749889
-mapreduce.job.speculative.speculative-cap-running-tasks,291.9312115,243821.8459,382.0006402
-mapreduce.job.speculative.slowtaskthreshold,280.0483064,252585.8467,358.8084906
-mapreduce.job.speculative.minimum-allowed-tasks,271.9452074,263612.8842,355.2847146
-mapreduce.job.skip.outdir,289.7269611,252593.7274,357.8598967
-mapreduce.job.reduce.shuffle.consumer.plugin.class,281.1723489,256017.4437,362.3594718
-mapreduce.job.map.output.collector.class,287.1526574,268330.6587,352.7002208
-mapreduce.job.local-fs.single-disk-limit.check.kill-limit-exceed,295.6633712,268095.959,376.1840504
-mapreduce.job.end-notification.custom-notifier-class,297.5981565,255987.6874,381.1064887
-mapreduce.job.emit-timeline-data,293.4917233,255940.7186,353.5296734
-mapreduce.job.counters.max,278.0323267,246072.4426,385.6662412
-mapreduce.job.complete.cancel.delegation.tokens,289.3802875,249220.7342,361.2416927
-mapreduce.job.committer.setup.cleanup.needed,281.9866549,256414.2228,371.9589913
-mapreduce.job.acl-view-job,277.813398,267185.6941,354.9836151
-mapreduce.job.acl-modify-job,281.2149777,263467.4224,376.3912128
-mapreduce.input.fileinputformat.split.minsize,285.0873356,267091.9267,385.4141511
-mapreduce.ifile.readahead.bytes,275.8049141,257231.59,378.3240348
-mapreduce.framework.name,282.6342381,250799.5456,356.1815886
-mapreduce.fileoutputcommitter.task.cleanup.enabled,295.8175703,243504.727,382.3513421
-mapreduce.cluster.local.dir,280.1858368,262048.0262,373.6885882
-mapreduce.cluster.acls.enabled,296.2139274,267667.1279,355.3500427
-mapreduce.client.libjars.wildcard,273.7799925,260891.7871,359.813599
-mapreduce.admin.user.env,281.3105958,259059.4259,383.7312845
-mapred.child.env,283.4856713,254941.3788,386.4521469
-mapreduce.shuffle.transfer.buffer.size,321,250024.8323,433.8781039
-mapreduce.job.ubertask.maxbytes,260,261766.205,382.0491634
-mapreduce.job.split.metainfo.maxsize,321,216708.8522,380.0977106
-mapreduce.job.speculative.retry-after-speculate,320,221791.2189,335.9354243
-mapreduce.job.max.split.locations,263,245139.3022,357.2313935
-mapreduce.task.io.sort.mb,259,252546.6533,333.2771512
-mapreduce.map.sort.spill.percent,262,304155.5965,316.3863513
-mapreduce.reduce.shuffle.fetch.retry.timeout-ms,262,248117.6585,373.7370398
-mapreduce.jobhistory.loadedjob.tasks.max,261,268546.9365,363.6226768
-mapreduce.task.io.sort.factor,262,257640.0721,312.2305983
-mapreduce.reduce.shuffle.parallelcopies,323,252865.0718,370.1618352
-mapreduce.job.reduces,262,305863.2301,418.8627658
-mapreduce.job.heap.memory-mb.ratio,261,278747.0821,383.4521235
-mapreduce.job.end-notification.retry.attempts,418,259758.3272,383.9741372
-mapreduce.job.end-notification.max.attempts,262,234971.9504,356.1261839
-yarn.app.mapreduce.am.hard-kill-timeout-ms,261,260396.2863,356.6872157
-mapreduce.reduce.memory.mb,260,277908.2332,412.6889542
-mapreduce.map.memory.mb,260,294597.7349,324.7255607
-mapreduce.job.running.map.limit,420,277117.4354,331.6604565
-mapreduce.job.cache.limit.max-resources-mb,322,292205.9495,442.6799494
-yarn.app.mapreduce.client-am.ipc.max-retries-on-timeouts,322,252531.4963,322.1730847
-mapreduce.shuffle.transferTo.allowed,262,248590.6202,451.7735134
-mapreduce.reduce.shuffle.read.timeout,261,244201.4699,378.3728489
-mapreduce.reduce.shuffle.connect.timeout,321,265577.2599,355.4047431
-mapreduce.map.node-label-expression,261,236338.8111,410.5711588
-mapreduce.job.reducer.unconditional-preempt.delay.sec,323,288013.681,414.7033477
-mapreduce.job.reducer.preempt.delay.sec,262,288738.8717,315.1787229
-mapreduce.job.reduce.slowstart.completedmaps,322,300647.7575,465.2001599
-mapreduce.jobhistory.move.thread-count,262,256322.5079,371.4206018
-mapreduce.job.local-fs.single-disk-limit.check.interval-ms,262,222181.5746,353.7662336
-mapreduce.job.end-notification.max.retry.interval,322,260280.3936,377.901707
-mapreduce.task.skip.start.attempts,418,257475.8073,353.0431674
-mapreduce.reduce.skip.proc-count.auto-incr,261,259870.3508,320.5669682
-mapreduce.reduce.merge.inmem.threshold,421,254377.6259,417.602841
-mapreduce.jobhistory.cleaner.enable,321,256285.1641,333.8641957
-mapreduce.job.tags,261,262092.4807,378.7235082
-mapreduce.job.node-label-expression,260,216100.7677,381.7754375
-mapreduce.job.local-fs.single-disk-limit.bytes,263,278383.7207,370.1515309
-mapreduce.input.lineinputformat.linespermap,261,243605.2406,459.6097404
-mapreduce.client.progressmonitor.pollinterval,221,259942.6448,335.2086049
+mapreduce.jobhistory.max-age-ms,"(377, 388, 377)","(257192, 251798, 253487)","(385, 389, 377)"
+mapreduce.jobhistory.loadedjobs.cache.size,"(366, 373, 354)","(230519, 233938, 237317)","(394, 408, 400)"
+mapreduce.jobhistory.joblist.cache.size,"(390, 400, 401)","(250164, 253079, 242616)","(373, 372, 381)"
+mapreduce.job.encrypted-intermediate-data.buffer.kb,"(389, 394, 386)","(266257, 257935, 276348)","(405, 407, 394)"
+mapreduce.ifile.readahead,"(368, 378, 376)","(255772, 258960, 249306)","(399, 411, 409)"
+mapreduce.shuffle.ssl.file.buffer.size,"(389, 393, 389)","(254843, 250080, 261733)","(373, 381, 371)"
+yarn.app.mapreduce.am.staging-dir.erasurecoding.enabled,"(376, 380, 370)","(260718, 257325, 265249)","(391, 397, 388)"
+yarn.app.mapreduce.am.staging-dir,"(355, 352, 367)","(263305, 257523, 258783)","(400, 400, 405)"
+yarn.app.mapreduce.am.resource.cpu-vcores,"(371, 384, 385)","(260576, 262332, 261072)","(371, 382, 365)"
+mapreduce.task.exit.timeout.check-interval-ms,"(370, 369, 360)","(247806, 248432, 257678)","(383, 381, 394)"
+mapreduce.reduce.speculative,"(373, 366, 368)","(257182, 258098, 250439)","(392, 383, 397)"
+mapreduce.reduce.input.buffer.percent,"(373, 371, 367)","(272696, 275059, 270159)","(394, 399, 403)"
+mapreduce.map.output.compress.codec,"(373, 363, 361)","(256365, 266443, 247869)","(386, 389, 375)"
+mapreduce.map.output.compress,"(391, 391, 381)","(249362, 256232, 259388)","(353, 359, 355)"
+mapreduce.jobhistory.webapp.https.address,"(368, 378, 360)","(266404, 257873, 273514)","(395, 391, 403)"
+mapreduce.jobhistory.recovery.store.leveldb.path,"(368, 377, 361)","(260084, 263459, 258186)","(378, 393, 370)"
+mapreduce.jobhistory.recovery.store.fs.uri,"(379, 373, 387)","(265515, 269151, 257826)","(380, 387, 375)"
+mapreduce.jobhistory.recovery.store.class,"(381, 383, 389)","(254217, 253651, 243904)","(381, 388, 371)"
+mapreduce.jobhistory.loadedtasks.cache.size,"(391, 392, 404)","(255629, 263900, 249651)","(318, 323, 322)"
+mapreduce.jobhistory.done-dir,"(369, 365, 363)","(266929, 272972, 276041)","(372, 360, 377)"
+mapreduce.job.ubertask.maxreduces,"(389, 377, 393)","(270332, 276416, 271284)","(381, 380, 385)"
+mapreduce.job.ubertask.maxmaps,"(380, 367, 386)","(265408, 266285, 260232)","(383, 386, 373)"
+mapreduce.job.ubertask.enable,"(367, 354, 378)","(262147, 269197, 256495)","(402, 403, 399)"
+mapreduce.job.speculative.speculative-cap-total-tasks,"(371, 381, 368)","(263285, 260689, 256637)","(375, 369, 389)"
+mapreduce.job.max.map,"(355, 365, 360)","(253413, 244669, 253220)","(402, 411, 394)"
+mapreduce.job.log4j-properties-file,"(370, 370, 362)","(267416, 269443, 275996)","(373, 384, 372)"
+mapreduce.job.end-notification.url,"(388, 380, 379)","(262747, 253299, 269191)","(394, 387, 382)"
+mapreduce.job.encrypted-intermediate-data-key-size-bits,"(356, 359, 359)","(249604, 252480, 247869)","(370, 359, 382)"
+mapreduce.job.dfs.storage.capacity.kill-limit-exceed,"(358, 344, 346)","(246202, 239078, 241988)","(383, 377, 386)"
+mapreduce.job.classloader,"(374, 374, 380)","(259358, 254341, 258606)","(389, 402, 388)"
+mapreduce.job.cache.limit.max-single-resource-mb,"(377, 386, 390)","(216709, 209059, 212870)","(382, 379, 389)"
+mapreduce.job.cache.limit.max-resources,"(377, 381, 386)","(257382, 263320, 248933)","(389, 400, 387)"
+mapreduce.client.submit.file.replication,"(362, 352, 352)","(248481, 242945, 244955)","(388, 399, 395)"
+mapreduce.application.framework.path,"(385, 379, 383)","(265769, 270501, 269152)","(394, 394, 405)"
+mapred.child.java.opts,"(375, 375, 380)","(258332, 263513, 254695)","(389, 389, 398)"
+map.sort.class,"(364, 357, 356)","(255579, 255594, 250913)","(375, 360, 363)"
+mapreduce.reduce.markreset.buffer.percent,"(372, 384, 365)","(264677, 255035, 271754)","(389, 375, 397)"
+mapreduce.job.encrypted-intermediate-data,"(374, 382, 368)","(220715, 229195, 218151)","(391, 400, 402)"
+mapreduce.task.local-fs.write-limit.bytes,"(377, 373, 376)","(252615, 253336, 261082)","(372, 367, 359)"
+mapreduce.map.speculative,"(372, 368, 368)","(259284, 260770, 269054)","(386, 390, 393)"
+mapreduce.job.maps,"(373, 379, 386)","(258845, 266053, 252274)","(386, 379, 380)"
+mapreduce.fileoutputcommitter.algorithm.version,"(383, 386, 374)","(265501, 269258, 266450)","(384, 395, 389)"
+mapreduce.jobhistory.recovery.enable,"(366, 359, 379)","(247421, 253255, 244489)","(393, 394, 385)"
+mapreduce.task.exit.timeout,"(376, 378, 384)","(259191, 256253, 269469)","(390, 390, 384)"
+mapreduce.job.hdfs-servers,"(357, 345, 353)","(260495, 267973, 269275)","(369, 354, 366)"
+mapreduce.task.combine.progress.records,"(373, 369, 380)","(258774, 255046, 259093)","(387, 377, 400)"
+mapreduce.jobhistory.datestring.cache.size,"(366, 355, 379)","(246316, 241138, 236184)","(393, 395, 378)"
+mapreduce.job.token.tracking.ids.enabled,"(380, 371, 376)","(256203, 266490, 258622)","(382, 381, 380)"
+mapreduce.job.token.tracking.ids,"(392, 392, 396)","(246079, 243360, 249400)","(380, 388, 375)"
+mapreduce.job.send-token-conf,"(387, 379, 376)","(264557, 259126, 273878)","(381, 378, 380)"
+mapreduce.job.redacted-properties,"(378, 382, 391)","(254082, 248607, 245042)","(388, 383, 376)"
+mapreduce.job.finish-when-all-reducers-done,"(378, 365, 390)","(269511, 276766, 259994)","(394, 383, 398)"
+mapreduce.app-submission.cross-platform,"(369, 359, 370)","(247858, 248172, 242760)","(385, 386, 391)"
+mapreduce.application.classpath,"(391, 378, 391)","(266474, 256295, 273253)","(372, 380, 378)"
+mapreduce.job.queuename,"(366, 369, 364)","(270965, 268446, 268144)","(397, 389, 385)"
+mapreduce.job.maxtaskfailures.per.tracker,"(372, 365, 360)","(256638, 260401, 265566)","(392, 380, 388)"
+mapreduce.job.am.node-label-expression,"(367, 372, 357)","(213957, 221600, 213135)","(375, 366, 382)"
+yarn.app.mapreduce.client.max-retries,"(371, 371, 375)","(259778, 267277, 260407)","(392, 378, 398)"
+yarn.app.mapreduce.am.resource.mb,"(374, 369, 387)","(256429, 249680, 261722)","(387, 384, 380)"
+mapreduce.task.profile.reduce.params,"(376, 379, 374)","(247951, 249403, 245640)","(395, 388, 399)"
+mapreduce.task.profile.params,"(376, 386, 389)","(251779, 245156, 252232)","(404, 408, 417)"
+mapreduce.task.profile.map.params,"(362, 350, 375)","(246308, 250774, 236033)","(402, 416, 408)"
+mapreduce.reduce.node-label-expression,"(360, 371, 356)","(221403, 211689, 227991)","(380, 381, 384)"
+mapreduce.reduce.maxattempts,"(360, 346, 373)","(259027, 263049, 264000)","(407, 401, 406)"
+mapreduce.job.sharedcache.mode,"(381, 381, 387)","(258663, 263725, 254697)","(401, 397, 395)"
+mapreduce.job.running.reduce.limit,"(370, 376, 383)","(260604, 265040, 250328)","(390, 401, 390)"
+mapreduce.am.max-attempts,"(387, 387, 375)","(260196, 261903, 264966)","(398, 413, 407)"
+yarn.app.mapreduce.client-am.ipc.max-retries,"(362, 362, 363)","(257458, 262849, 248557)","(405, 395, 393)"
+yarn.app.mapreduce.am.webapp.port-range,"(390, 395, 381)","(247524, 253371, 241114)","(376, 389, 367)"
+yarn.app.mapreduce.am.scheduler.heartbeat.interval-ms,"(358, 349, 354)","(263331, 267100, 256623)","(406, 401, 419)"
+yarn.app.mapreduce.am.job.client.port-range,"(369, 366, 380)","(270783, 280735, 269629)","(404, 397, 388)"
+mapreduce.shuffle.port,"(388, 394, 390)","(271436, 262596, 273278)","(393, 409, 385)"
+mapreduce.shuffle.connection-keep-alive.timeout,"(379, 365, 376)","(251351, 260001, 257401)","(375, 365, 367)"
+mapreduce.shuffle.connection-keep-alive.enable,"(381, 378, 381)","(260828, 270269, 265475)","(388, 378, 402)"
+mapreduce.reduce.shuffle.retry-delay.max.ms,"(363, 352, 375)","(228913, 238519, 231250)","(389, 380, 392)"
+mapreduce.map.maxattempts,"(367, 379, 379)","(250270, 245250, 256517)","(396, 409, 389)"
+mapreduce.jobhistory.webapp.address,"(367, 378, 373)","(256211, 260652, 263251)","(394, 391, 388)"
+mapreduce.jobhistory.http.policy,"(356, 361, 370)","(258019, 261270, 254917)","(399, 413, 393)"
+mapreduce.jobhistory.address,"(359, 370, 355)","(259405, 266497, 260838)","(398, 399, 383)"
+mapreduce.job.classloader.system.classes,"(372, 374, 373)","(256814, 259622, 254264)","(402, 406, 395)"
+yarn.app.mapreduce.am.webapp.https.client.auth,"(370, 372, 371)","(223559, 218164, 225663)","(372, 371, 358)"
+mapreduce.shuffle.ssl.enabled,"(368, 355, 367)","(270403, 262121, 261565)","(377, 390, 383)"
+mapreduce.jobhistory.move.interval-ms,"(376, 368, 363)","(257004, 265478, 252321)","(386, 393, 386)"
+mapreduce.jobhistory.minicluster.fixed.ports,"(366, 368, 365)","(264866, 255237, 272527)","(377, 387, 382)"
+mapreduce.jobhistory.client.thread-count,"(389, 384, 376)","(260563, 262306, 267354)","(399, 395, 391)"
+mapreduce.job.speculative.retry-after-no-speculate,"(382, 372, 391)","(258987, 268466, 259042)","(406, 398, 413)"
+mapreduce.shuffle.pathcache.max-weight,"(386, 380, 390)","(261854, 257483, 266462)","(401, 390, 403)"
+mapreduce.shuffle.pathcache.expire-after-access-minutes,"(374, 370, 377)","(260004, 268025, 258188)","(389, 401, 387)"
+mapreduce.shuffle.pathcache.concurrency-level,"(377, 371, 376)","(259052, 265873, 259776)","(385, 397, 395)"
+mapreduce.shuffle.max.connections,"(366, 359, 379)","(267605, 264741, 275198)","(371, 376, 385)"
+mapreduce.shuffle.listen.queue.size,"(383, 372, 370)","(254559, 251991, 260750)","(372, 376, 378)"
+mapreduce.reduce.shuffle.merge.percent,"(373, 360, 374)","(257452, 259779, 248786)","(385, 376, 386)"
+mapreduce.reduce.shuffle.memory.limit.percent,"(376, 376, 376)","(257238, 258094, 262121)","(390, 380, 396)"
+mapreduce.reduce.shuffle.input.buffer.percent,"(380, 381, 383)","(261376, 266277, 257783)","(399, 391, 410)"
+yarn.app.mapreduce.am.job.task.listener.thread-count,"(360, 362, 354)","(250268, 257311, 253082)","(394, 381, 391)"
+yarn.app.mapreduce.am.job.committer.commit-window,"(358, 359, 365)","(271090, 266048, 274948)","(354, 343, 354)"
+yarn.app.mapreduce.am.job.committer.cancel-timeout,"(376, 373, 368)","(257082, 249849, 260584)","(390, 399, 403)"
+yarn.app.mapreduce.am.containerlauncher.threadpool-initial-size,"(358, 359, 360)","(253844, 245624, 244038)","(400, 407, 386)"
+mapreduce.reduce.shuffle.fetch.retry.interval-ms,"(374, 368, 382)","(256017, 256138, 256980)","(391, 390, 377)"
+mapreduce.reduce.shuffle.fetch.retry.enabled,"(372, 381, 380)","(258628, 261146, 251144)","(392, 384, 395)"
+mapreduce.task.timeout,"(385, 385, 391)","(308673, 302165, 312389)","(392, 383, 388)"
+mapreduce.task.stuck.timeout-ms,"(390, 396, 376)","(235733, 226955, 230609)","(394, 405, 401)"
+mapreduce.client.output.filter,"(376, 363, 386)","(258058, 261528, 252298)","(386, 375, 379)"
+mapreduce.job.end-notification.retry.interval,"(373, 384, 383)","(257791, 249112, 249293)","(381, 395, 367)"
+mapreduce.input.fileinputformat.list-status.num-threads,"(371, 379, 370)","(260593, 261090, 251440)","(387, 397, 372)"
+mapreduce.client.completion.pollinterval,"(391, 401, 396)","(255207, 263155, 249328)","(384, 384, 388)"
+yarn.app.mapreduce.client.job.retry-interval,"(369, 362, 380)","(268367, 258479, 276028)","(376, 370, 374)"
+yarn.app.mapreduce.client.job.max-retries,"(379, 380, 373)","(267307, 269992, 258509)","(399, 410, 394)"
+mapreduce.shuffle.max.threads,"(392, 390, 401)","(253270, 247449, 252448)","(379, 386, 394)"
+yarn.app.mapreduce.task.container.log.backups,"(391, 382, 394)","(247369, 257161, 256812)","(369, 373, 383)"
+yarn.app.mapreduce.shuffle.log.separate,"(363, 350, 355)","(271377, 271521, 266533)","(400, 397, 414)"
+yarn.app.mapreduce.shuffle.log.limit.kb,"(372, 371, 377)","(255367, 250344, 250052)","(398, 390, 397)"
+yarn.app.mapreduce.shuffle.log.backups,"(389, 397, 393)","(263929, 268632, 268274)","(373, 361, 370)"
+yarn.app.mapreduce.am.webapp.https.enabled,"(367, 374, 365)","(264023, 273190, 262325)","(400, 412, 408)"
+yarn.app.mapreduce.am.log.level,"(363, 349, 374)","(259892, 259714, 253312)","(393, 382, 405)"
+yarn.app.mapreduce.am.env,"(358, 366, 349)","(255420, 245741, 262840)","(386, 386, 393)"
+yarn.app.mapreduce.am.container.log.limit.kb,"(376, 375, 376)","(248323, 238734, 251405)","(379, 382, 373)"
+yarn.app.mapreduce.am.container.log.backups,"(390, 383, 390)","(255266, 262211, 262937)","(400, 414, 396)"
+yarn.app.mapreduce.am.command-opts,"(385, 372, 381)","(250397, 249374, 259993)","(398, 404, 388)"
+yarn.app.mapreduce.am.admin-command-opts,"(374, 380, 367)","(266709, 276252, 275181)","(384, 397, 390)"
+yarn.app.mapreduce.am.admin.user.env,"(359, 350, 372)","(263572, 271706, 256303)","(370, 372, 355)"
+mapreduce.task.userlog.limit.kb,"(372, 378, 361)","(266700, 259097, 262982)","(375, 376, 380)"
+mapreduce.task.profile.reduces,"(375, 384, 381)","(256875, 262582, 261321)","(385, 392, 392)"
+mapreduce.task.profile.maps,"(372, 378, 363)","(249370, 250424, 245180)","(407, 405, 413)"
+mapreduce.task.profile,"(362, 357, 372)","(260441, 252489, 254742)","(405, 405, 408)"
+mapreduce.task.merge.progress.records,"(366, 354, 363)","(269054, 275741, 270885)","(338, 324, 353)"
+mapreduce.task.files.preserve.failedtasks,"(363, 374, 358)","(252372, 243305, 255819)","(378, 383, 387)"
+mapreduce.reduce.skip.maxgroups,"(355, 360, 366)","(245749, 243567, 237706)","(383, 372, 398)"
+mapreduce.reduce.log.level,"(365, 375, 363)","(247033, 248448, 252945)","(379, 373, 381)"
+mapreduce.reduce.cpu.vcores,"(358, 369, 359)","(264825, 274637, 263723)","(379, 370, 368)"
+mapreduce.outputcommitter.factory.scheme.s3a,"(364, 354, 371)","(256067, 259487, 259462)","(407, 408, 418)"
+mapreduce.outputcommitter.factory.class,"(377, 383, 382)","(269745, 262831, 271278)","(390, 376, 397)"
+mapreduce.output.fileoutputformat.compress.type,"(371, 360, 366)","(264245, 260086, 255304)","(400, 413, 408)"
+mapreduce.output.fileoutputformat.compress.codec,"(377, 380, 378)","(265148, 271635, 272716)","(381, 376, 386)"
+mapreduce.output.fileoutputformat.compress,"(370, 371, 378)","(251743, 250429, 243538)","(394, 382, 382)"
+mapreduce.map.skip.proc-count.auto-incr,"(373, 371, 367)","(259024, 250127, 257992)","(360, 360, 357)"
+mapreduce.map.skip.maxrecords,"(359, 346, 362)","(251223, 241594, 248121)","(381, 392, 375)"
+mapreduce.map.log.level,"(362, 364, 353)","(254228, 247670, 246402)","(402, 410, 401)"
+mapreduce.map.cpu.vcores,"(372, 359, 378)","(266255, 261995, 273862)","(374, 385, 379)"
+mapreduce.jvm.system-properties-to-log,"(364, 356, 373)","(259340, 255072, 256678)","(379, 381, 370)"
+mapreduce.jobhistory.webapp.xfs-filter.xframe-options,"(361, 359, 369)","(261203, 262345, 266871)","(403, 411, 416)"
+mapreduce.jobhistory.webapp.rest-csrf.methods-to-ignore,"(356, 367, 355)","(266002, 270863, 266496)","(401, 402, 397)"
+mapreduce.jobhistory.webapp.rest-csrf.enabled,"(370, 371, 382)","(272696, 279894, 264195)","(405, 415, 417)"
+mapreduce.jobhistory.webapp.rest-csrf.custom-header,"(382, 394, 373)","(250668, 252203, 259728)","(395, 400, 384)"
+mapreduce.jobhistory.store.class,"(375, 383, 388)","(268087, 272606, 267328)","(400, 397, 397)"
+mapreduce.jobhistory.principal,"(377, 367, 390)","(255541, 245880, 264124)","(377, 381, 381)"
+mapreduce.jobhistory.keytab,"(376, 368, 362)","(268084, 269899, 264529)","(407, 397, 403)"
+mapreduce.jobhistory.jobname.limit,"(384, 391, 394)","(264804, 269896, 263856)","(382, 386, 368)"
+mapreduce.jobhistory.jhist.format,"(369, 367, 362)","(262401, 267749, 260329)","(393, 385, 383)"
+mapreduce.jobhistory.intermediate-user-done-dir.permissions,"(384, 371, 378)","(266715, 275607, 273225)","(391, 381, 393)"
+mapreduce.jobhistory.intermediate-done-dir,"(378, 387, 384)","(264714, 260181, 273828)","(387, 387, 378)"
+mapreduce.jobhistory.cleaner.interval-ms,"(376, 365, 386)","(257904, 261863, 266979)","(385, 378, 395)"
+mapreduce.jobhistory.always-scan-user-dir,"(355, 352, 364)","(266626, 256795, 276854)","(407, 396, 406)"
+mapreduce.jobhistory.admin.address,"(371, 361, 383)","(264310, 260805, 260546)","(401, 386, 393)"
+mapreduce.jobhistory.admin.acl,"(374, 368, 381)","(252037, 252191, 243332)","(374, 388, 371)"
+mapreduce.job.speculative.speculative-cap-running-tasks,"(385, 373, 386)","(267322, 257490, 267323)","(406, 413, 401)"
+mapreduce.job.speculative.slowtaskthreshold,"(379, 387, 386)","(260089, 266551, 261110)","(378, 374, 364)"
+mapreduce.job.speculative.minimum-allowed-tasks,"(373, 383, 368)","(257175, 251481, 254210)","(386, 396, 381)"
+mapreduce.job.skip.outdir,"(357, 344, 370)","(254202, 255188, 247512)","(383, 384, 386)"
+mapreduce.job.reduce.shuffle.consumer.plugin.class,"(384, 394, 394)","(253985, 255247, 260090)","(377, 374, 390)"
+mapreduce.job.map.output.collector.class,"(355, 349, 356)","(261300, 260138, 262533)","(394, 384, 405)"
+mapreduce.job.local-fs.single-disk-limit.check.kill-limit-exceed,"(361, 346, 350)","(246561, 246350, 240026)","(387, 395, 395)"
+mapreduce.job.end-notification.custom-notifier-class,"(379, 378, 384)","(263287, 268361, 272860)","(385, 379, 383)"
+mapreduce.job.emit-timeline-data,"(388, 375, 378)","(264417, 266284, 266263)","(385, 382, 381)"
+mapreduce.job.counters.max,"(366, 362, 358)","(268827, 268195, 266332)","(383, 372, 384)"
+mapreduce.job.complete.cancel.delegation.tokens,"(382, 387, 395)","(268787, 276058, 266187)","(372, 373, 374)"
+mapreduce.job.committer.setup.cleanup.needed,"(355, 357, 341)","(249995, 244377, 245729)","(406, 398, 405)"
+mapreduce.job.acl-view-job,"(374, 376, 386)","(254729, 244785, 245209)","(405, 391, 413)"
+mapreduce.job.acl-modify-job,"(392, 379, 403)","(258753, 256845, 258349)","(372, 373, 378)"
+mapreduce.input.fileinputformat.split.minsize,"(374, 369, 367)","(253484, 250969, 253319)","(381, 386, 386)"
+mapreduce.ifile.readahead.bytes,"(383, 383, 375)","(269913, 276155, 268359)","(373, 375, 376)"
+mapreduce.framework.name,"(389, 401, 387)","(264791, 260791, 258690)","(407, 400, 406)"
+mapreduce.fileoutputcommitter.task.cleanup.enabled,"(371, 374, 369)","(257575, 253575, 264113)","(391, 388, 402)"
+mapreduce.cluster.local.dir,"(368, 381, 362)","(258292, 256612, 250872)","(382, 376, 368)"
+mapreduce.cluster.acls.enabled,"(392, 401, 392)","(258655, 261710, 265275)","(373, 363, 388)"
+mapreduce.client.libjars.wildcard,"(371, 374, 381)","(259191, 264472, 262699)","(373, 374, 358)"
+mapreduce.admin.user.env,"(378, 392, 371)","(262313, 254542, 260288)","(407, 422, 410)"
+mapred.child.env,"(377, 388, 383)","(259706, 250007, 261994)","(370, 376, 374)"
+mapreduce.shuffle.transfer.buffer.size,"(261, 270, 266)","(265960, 275259, 258716)","(433, 427, 435)"
+mapreduce.job.ubertask.maxbytes,"(260, 266, 252)","(260727, 262038, 250608)","(405, 410, 414)"
+mapreduce.job.split.metainfo.maxsize,"(321, 330, 333)","(216708, 216147, 209922)","(389, 402, 395)"
+mapreduce.job.speculative.retry-after-speculate,"(260, 262, 255)","(221791, 214363, 231367)","(335, 344, 340)"
+mapreduce.job.max.split.locations,"(262, 263, 268)","(245139, 236995, 250910)","(379, 384, 394)"
+mapreduce.task.io.sort.mb,"(259, 270, 267)","(252169, 242440, 250207)","(333, 320, 322)"
+mapreduce.map.sort.spill.percent,"(262, 258, 272)","(304155, 298006, 299332)","(316, 323, 307)"
+mapreduce.reduce.shuffle.fetch.retry.timeout-ms,"(262, 252, 266)","(271293, 277710, 274698)","(383, 385, 395)"
+mapreduce.jobhistory.loadedjob.tasks.max,"(261, 270, 260)","(253527, 256463, 256647)","(407, 405, 404)"
+mapreduce.task.io.sort.factor,"(262, 267, 251)","(256247, 257018, 250034)","(312, 297, 304)"
+mapreduce.reduce.shuffle.parallelcopies,"(321, 333, 317)","(261700, 258034, 255310)","(392, 377, 382)"
+mapreduce.job.reduces,"(261, 251, 254)","(305863, 306447, 309372)","(418, 420, 418)"
+mapreduce.job.heap.memory-mb.ratio,"(261, 262, 252)","(278747, 270321, 280226)","(399, 397, 406)"
+mapreduce.job.end-notification.retry.attempts,"(322, 323, 319)","(257666, 249693, 264302)","(389, 379, 388)"
+mapreduce.job.end-notification.max.attempts,"(262, 260, 259)","(234971, 242102, 230387)","(378, 364, 388)"
+yarn.app.mapreduce.am.hard-kill-timeout-ms,"(261, 267, 250)","(261802, 251849, 253441)","(392, 399, 391)"
+mapreduce.reduce.memory.mb,"(260, 253, 256)","(277908, 272094, 281531)","(412, 398, 417)"
+mapreduce.map.memory.mb,"(260, 264, 268)","(294597, 303042, 287581)","(324, 329, 314)"
+mapreduce.job.running.map.limit,"(262, 262, 257)","(277117, 275560, 272664)","(331, 329, 346)"
+mapreduce.job.cache.limit.max-resources-mb,"(262, 255, 265)","(292205, 302292, 283019)","(442, 434, 439)"
+yarn.app.mapreduce.client-am.ipc.max-retries-on-timeouts,"(260, 272, 268)","(259215, 266275, 253957)","(322, 309, 318)"
+mapreduce.shuffle.transferTo.allowed,"(262, 270, 248)","(271026, 265484, 267422)","(451, 461, 465)"
+mapreduce.reduce.shuffle.read.timeout,"(261, 260, 274)","(255154, 258440, 253804)","(385, 371, 379)"
+mapreduce.reduce.shuffle.connect.timeout,"(262, 252, 251)","(268535, 260601, 272637)","(397, 386, 391)"
+mapreduce.map.node-label-expression,"(260, 264, 273)","(236338, 239995, 237662)","(410, 395, 401)"
+mapreduce.job.reducer.unconditional-preempt.delay.sec,"(323, 311, 327)","(288013, 296811, 297819)","(414, 414, 417)"
+mapreduce.job.reducer.preempt.delay.sec,"(262, 270, 268)","(288738, 279197, 290861)","(315, 308, 307)"
+mapreduce.job.reduce.slowstart.completedmaps,"(322, 311, 312)","(300647, 293387, 308411)","(465, 460, 454)"
+mapreduce.jobhistory.move.thread-count,"(262, 266, 263)","(246355, 249089, 250028)","(377, 365, 392)"
+mapreduce.job.local-fs.single-disk-limit.check.interval-ms,"(262, 266, 272)","(222181, 221693, 230370)","(387, 402, 396)"
+mapreduce.job.end-notification.max.retry.interval,"(261, 273, 253)","(251558, 259295, 257889)","(375, 369, 384)"
+mapreduce.task.skip.start.attempts,"(262, 249, 268)","(247958, 250635, 256868)","(353, 348, 354)"
+mapreduce.reduce.skip.proc-count.auto-incr,"(261, 253, 254)","(258908, 261161, 259565)","(320, 305, 333)"
+mapreduce.reduce.merge.inmem.threshold,"(262, 269, 267)","(270820, 277913, 267085)","(417, 418, 417)"
+mapreduce.jobhistory.cleaner.enable,"(260, 263, 265)","(246429, 243650, 241014)","(333, 341, 332)"
+mapreduce.job.tags,"(261, 265, 249)","(251514, 245621, 250191)","(385, 374, 384)"
+mapreduce.job.node-label-expression,"(260, 262, 256)","(216100, 213258, 206522)","(381, 392, 389)"
+mapreduce.job.local-fs.single-disk-limit.bytes,"(263, 273, 252)","(278383, 275824, 281164)","(405, 404, 414)"
+mapreduce.input.lineinputformat.linespermap,"(261, 266, 265)","(249656, 245361, 257868)","(459, 458, 458)"
+mapreduce.client.progressmonitor.pollinterval,"(221, 235, 221)","(249540, 254345, 256045)","(335, 329, 350)"
