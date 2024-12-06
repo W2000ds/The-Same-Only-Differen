@@ -1,4 +1,4 @@
-This is our performance test template and the actual test code of MySQL under sysbench.
+This is our performance test template and the actual test code of all systems.
 
 ### Test template
 
